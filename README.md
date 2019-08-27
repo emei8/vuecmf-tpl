@@ -5,7 +5,7 @@ vuecmf快速开发框架后台前端模板
 ## 安装运行环境
 1、安装nodejs
 
-下载nodejs（https://nodejs.org/zh-cn/）并安装完后，在命令行执行下面操作安装yarn
+- [下载nodejs（https://nodejs.org/zh-cn/）](https://nodejs.org/zh-cn/), 并安装完后，在命令行执行下面操作安装yarn
 ```
 npm install -g yarn
 ```
